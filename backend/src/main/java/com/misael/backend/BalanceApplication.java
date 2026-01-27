@@ -1,13 +1,13 @@
-package com.misael.balance.backend;
+package com.misael.backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BackendApplication {
+public class BalanceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BackendApplication.class, args);
+		SpringApplication.run(BalanceApplication.class, args);
 	}
 
 }
